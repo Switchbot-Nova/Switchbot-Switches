@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "TTC Princess",
+    "Feel": "Linear",
+    "ActivationForce": 45,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(ttc|princess)(princess|ttc)",
+    "Image": "https://keybumps.com/img/800sw/akko-ttc-princess.jpg",
+    "Pin": 3
+}

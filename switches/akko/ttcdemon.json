@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "TTC Demon",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(ttc|demon)(demon|ttc)",
+    "Image": "https://keybumps.com/img/800sw/akko-ttc-demon.jpg",
+    "Pin": 3
+}

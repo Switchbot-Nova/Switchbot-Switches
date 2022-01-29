@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Vintage White",
+    "Feel": "Linear",
+    "ActivationForce": 35,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(vintage|white)(white|vintage)",
+    "Image": "https://keybumps.com/img/800sw/akko-cs-vintage-white.jpg",
+    "Pin": 3
+}
