@@ -1,0 +1,11 @@
+{
+    "Brand": "Durock",
+    "Switch": "T1",
+    "Feel": "Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": 67,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(t1)",
+    "Image": "https://i.imgur.com/7uwlAfN.png"
+}

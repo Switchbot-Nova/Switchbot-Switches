@@ -1,0 +1,11 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Speed Silver",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": 70,
+    "ActivationPoint": 1.1,
+    "TravelDistance": 3.5,
+    "RegEx": "(speed|silver)(silver|speed)",
+    "Image": "http://telcontar.net/KBK/SwitchCollection/images/Kailh/PG1511_Silver_.jpg"
+}

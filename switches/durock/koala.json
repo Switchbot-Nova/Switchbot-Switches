@@ -1,0 +1,11 @@
+{
+    "Brand": "Durock",
+    "Switch": "Koala",
+    "Feel": "Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": "62/67",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(koala)",
+    "Image": "https://i.imgur.com/qLYXGhP.png"
+}

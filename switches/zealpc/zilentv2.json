@@ -1,0 +1,11 @@
+{
+    "Brand": "ZealPC",
+    "Switch": "Zilent V2",
+    "Feel": "Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": "62/65/67/78",
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(zilent)",
+    "Image": "https://i.imgur.com/1yu5RPS.png"
+}

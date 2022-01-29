@@ -1,0 +1,11 @@
+{
+    "Brand": "Razer",
+    "Switch": "Yellow",
+    "Feel": "Linear",
+    "ActivationForce": 45,
+    "BottomOutForce": 75,
+    "ActivationPoint": 1.2,
+    "TravelDistance": 3.5,
+    "RegEx": "(razer|yellow)(yellow|razer)",
+    "Image": "https://assets2.razerzone.com/images/blackwidow-elite/razer-blackwidow-elite-yellow-mechanical-switch.jpg"
+}

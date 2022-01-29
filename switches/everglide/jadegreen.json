@@ -1,0 +1,11 @@
+{
+    "Brand": "Everglide",
+    "Switch": "Jade Green",
+    "Feel": "Tactile",
+    "ActivationForce": 45,
+    "BottomOutForce": 58,
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(jade|green)(green|jade)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Jade_Green_1024x1024@2x.jpg?v=1579028597"
+}

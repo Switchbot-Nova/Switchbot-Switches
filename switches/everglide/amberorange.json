@@ -1,0 +1,11 @@
+{
+    "Brand": "Everglide",
+    "Switch": "Amber Orange",
+    "Feel": "Linear",
+    "ActivationForce": 45,
+    "BottomOutForce": 58,
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(amber|orange)(orange|amber)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Amber_Orange_1024x1024@2x.jpg?v=1579028597"
+}

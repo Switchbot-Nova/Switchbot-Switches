@@ -1,0 +1,11 @@
+{
+    "Brand": "Outemu",
+    "Switch": "Silent Sky",
+    "Feel": "Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": "62/68",
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(silent|(sky|skie))((sky|skie)|silent)",
+    "Image": "https://www.1upkeyboards.com/wp-content/uploads/2019/10/Switch-Outemu-Sky-Top.jpg"
+}

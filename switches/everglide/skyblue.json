@@ -1,0 +1,11 @@
+{
+    "Brand": "Everglide",
+    "Switch": "Sky Blue",
+    "Feel": "Linear",
+    "ActivationForce": 45,
+    "BottomOutForce": 55,
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(sky|blue)(blue|sky)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Sky_Blue_1024x1024@2x.jpg?v=1579028597"
+}

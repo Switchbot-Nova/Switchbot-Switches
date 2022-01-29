@@ -1,0 +1,11 @@
+{
+    "Brand": "Keebwerk",
+    "Switch": "Tacit",
+    "Feel": "Tactile",
+    "ActivationForce": 67,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 3.8,
+    "RegEx": "(tacit)",
+    "Image": "https://www.keebwerk.com/wp-content/uploads/2020/01/WHITESWITCH-680x679.png"
+}

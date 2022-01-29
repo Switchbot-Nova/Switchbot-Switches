@@ -1,0 +1,11 @@
+{
+    "Brand": "JWK",
+    "Switch": "Silent Alpaca",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 62,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(silent|alpaca)(alpaca|silent)",
+    "Image": "http://cdn.shopify.com/s/files/1/2782/6684/products/MBAA674-AlpacaV2SilentSwitch_grande.png?v=1622368110"
+}

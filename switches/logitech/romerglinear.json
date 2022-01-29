@@ -1,0 +1,10 @@
+{
+    "Brand": "Logitech",
+    "Switch": "Romer-G Linear",
+    "Feel": "Linear",
+    "ActivationForce": 45,
+    "ActivationPoint": 1.5,
+    "TravelDistance": 3.2,
+    "RegEx": "(romerg|linear)(linear|romerg)",
+    "Image": "http://i.ebayimg.com/images/g/t8wAAOSwepJXW9Y-/s-l300.jpg"
+}

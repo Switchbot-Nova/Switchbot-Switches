@@ -1,0 +1,11 @@
+{
+    "Brand": "JWK",
+    "Switch": "Pinoko",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 65,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(pinoko)",
+    "Image": "https://i.imgur.com/OqTHoB7.png"
+}

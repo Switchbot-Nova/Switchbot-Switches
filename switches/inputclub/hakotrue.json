@@ -1,0 +1,11 @@
+{
+    "Brand": "Input Club",
+    "Switch": "Hako True",
+    "Feel": "Tactile",
+    "ActivationForce": 60,
+    "BottomOutForce": 94,
+    "ActivationPoint": 1.95,
+    "TravelDistance": 3.6,
+    "RegEx": "(hako|true)(true|hako)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.nuV2n9vAGx9Kz58OmMqn6QHaHa%26pid%3DApi&f=1"
+}

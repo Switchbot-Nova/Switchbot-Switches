@@ -1,0 +1,11 @@
+{
+    "Brand": "Invyr",
+    "Switch": "Holy Panda",
+    "Feel": "Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": 67,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(holy|panda)(panda|holy)",
+    "Image": "https://massdrop-s3.imgix.net/product-images/massdrop-x-invyr-holy-panda-mechanical-switches/FP/DwYWcr96TM2KkNmnQAFe_PC.png?auto=format&fm=jpg&fit=fill&w=820&h=547&bg=f0f0f0&dpr=1&q=70"
+}

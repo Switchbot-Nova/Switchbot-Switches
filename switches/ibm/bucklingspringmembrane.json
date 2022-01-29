@@ -1,0 +1,11 @@
+{
+    "Brand": "IBM",
+    "Switch": "Buckling Spring,\nMembrane",
+    "Feel": "Clicky",
+    "ActivationForce": "-",
+    "BottomOutForce": 71,
+    "ActivationPoint": 1.8,
+    "TravelDistance": 3.5,
+    "RegEx": "(ibm|membrane)(membrane|ibm)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Unicomp_space_saver_model_m._with_removed_key_3864555240_9a2c6b95da_o.jpg"
+}

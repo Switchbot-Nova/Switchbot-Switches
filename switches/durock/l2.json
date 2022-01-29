@@ -1,0 +1,11 @@
+{
+    "Brand": "Durock",
+    "Switch": "L2",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 67,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(l2)",
+    "Image": "https://i.imgur.com/vF8keJb.png"
+}

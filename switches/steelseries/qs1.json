@@ -1,0 +1,10 @@
+{
+    "Brand": "SteelSeries",
+    "Switch": "QS1",
+    "Feel": "Linear",
+    "ActivationForce": 45,
+    "ActivationPoint": 1.5,
+    "TravelDistance": 3,
+    "RegEx": "(qs1)",
+    "Image": "https://cdn.mos.cms.futurecdn.net/a5657d3d00e2b473fb9f532b54e00bb2-320-80.jpg"
+}

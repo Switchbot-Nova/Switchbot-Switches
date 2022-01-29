@@ -1,0 +1,11 @@
+{
+    "Brand": "Greetech",
+    "Switch": "Brown",
+    "Feel": "Tactile",
+    "ActivationForce": 38,
+    "BottomOutForce": 55,
+    "ActivationPoint": 2.6,
+    "TravelDistance": 4,
+    "RegEx": "((greetech|gree)|brown)(brown|(greetech|gree))",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._8wu2L-HjbjOdwwm69s4bQHaHa%26pid%3DApi&f=1"
+}

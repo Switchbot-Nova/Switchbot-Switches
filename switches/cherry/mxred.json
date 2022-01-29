@@ -1,0 +1,11 @@
+{
+    "Brand": "Cherry",
+    "Switch": "MX Red",
+    "Feel": "Linear",
+    "ActivationForce": 45,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "((cherry|mx)|red)(red|(cherry|mx))",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.BbGabixdMOMTxe2BP6L5DAHaHa%26pid%3DApi&f=1"
+}

@@ -1,0 +1,11 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Blue",
+    "Feel": "Clicky",
+    "ActivationForce": 50,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2.2,
+    "TravelDistance": 4,
+    "RegEx": "(kailh|blue)(blue|kailh)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.zNpncRvrN31680jlYmrUrgAAAA%26pid%3DApi&f=1"
+}

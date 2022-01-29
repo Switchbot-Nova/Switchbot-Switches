@@ -1,0 +1,11 @@
+{
+    "Brand": "Razer",
+    "Switch": "Green",
+    "Feel": "Clicky",
+    "ActivationForce": 50,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2.3,
+    "TravelDistance": 4,
+    "RegEx": "(razer|green)(green|razer)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4OakUcXArshz1WdwFIgJIwAAAA%26pid%3DApi&f=1"
+}

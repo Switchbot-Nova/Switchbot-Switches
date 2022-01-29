@@ -1,0 +1,11 @@
+{
+    "Brand": "Novelkeys",
+    "Switch": "BOX Navy",
+    "Feel": "Clicky",
+    "ActivationForce": 60,
+    "BottomOutForce": 90,
+    "ActivationPoint": 1.82,
+    "TravelDistance": 3.6,
+    "RegEx": "(box|navy)(navy|box)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.454ShcqBO40__pcfA_TBJwAAAA%26pid%3DApi&f=1"
+}

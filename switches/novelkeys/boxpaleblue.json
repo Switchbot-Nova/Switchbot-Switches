@@ -1,0 +1,11 @@
+{
+    "Brand": "Novelkeys",
+    "Switch": "BOX Pale Blue",
+    "Feel": "Clicky",
+    "ActivationForce": 60,
+    "BottomOutForce": 80,
+    "ActivationPoint": 1.93,
+    "TravelDistance": 3.6,
+    "RegEx": "(pale|blue)(blue|pale)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DfT5YxZ5qdHDVFyk26zn3gHaHa%26pid%3DApi&f=1"
+}

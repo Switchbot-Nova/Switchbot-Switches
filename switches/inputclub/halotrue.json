@@ -1,0 +1,11 @@
+{
+    "Brand": "Input Club",
+    "Switch": "Halo True",
+    "Feel": "Tactile",
+    "ActivationForce": 54,
+    "BottomOutForce": 100,
+    "ActivationPoint": 1.9,
+    "TravelDistance": 4,
+    "RegEx": "(halo|true)(true|haloe)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.m-l00CKHB767eTz8yqwOiAHaHa%26pid%3DApi&f=1"
+}

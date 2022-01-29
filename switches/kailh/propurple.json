@@ -1,0 +1,10 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Pro Purple",
+    "Feel": "Tactile",
+    "ActivationForce": 50,
+    "ActivationPoint": 1.7,
+    "TravelDistance": 3.6,
+    "RegEx": "(pro|purple)(purple|pro)",
+    "Image": "https://cdn.shopify.com/s/files/1/0920/0728/products/1010400_grande.jpg?v=1572407908"
+}

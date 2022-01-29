@@ -1,0 +1,11 @@
+{
+    "Brand": "Cherry",
+    "Switch": "Vintage Black",
+    "Feel": "Linear",
+    "ActivationForce": 60,
+    "BottomOutForce": 80,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "((vintage|vint)|black)(black|(vintage|vint))",
+    "Image": "https://5.imimg.com/data5/TY/EF/MY-40017/heritage-antique-black-finish-switches-500x500.jpg"
+}

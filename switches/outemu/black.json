@@ -1,0 +1,11 @@
+{
+    "Brand": "Outemu",
+    "Switch": "Black",
+    "Feel": "Linear",
+    "ActivationForce": 65,
+    "BottomOutForce": 84,
+    "ActivationPoint": 2.6,
+    "TravelDistance": 4,
+    "RegEx": "(outemu|black)(black|outemu)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FR2SdIUoeykOnefL7J7KIQHaHa%26pid%3DApi&f=1"
+}

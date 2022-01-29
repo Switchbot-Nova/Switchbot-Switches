@@ -1,0 +1,11 @@
+{
+    "Brand": "Durock",
+    "Switch": "L7",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 67,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(l7)",
+    "Image": "https://i.imgur.com/251Rgs0.png"
+}

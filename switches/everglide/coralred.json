@@ -1,0 +1,11 @@
+{
+    "Brand": "Everglide",
+    "Switch": "Coral Red",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": 67,
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(coral|red)(red|coral)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Coral_Red_1024x1024@2x.jpg?v=1579028597"
+}

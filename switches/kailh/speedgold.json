@@ -1,0 +1,11 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Speed Gold",
+    "Feel": "Clicky",
+    "ActivationForce": 50,
+    "BottomOutForce": 60,
+    "ActivationPoint": 1.4,
+    "TravelDistance": 3.5,
+    "RegEx": "(speed|gold)(gold|speed)",
+    "Image": "https://yushakobo.jp/wp-content/uploads/2019/04/A0200KS-GO-s.jpg"
+}

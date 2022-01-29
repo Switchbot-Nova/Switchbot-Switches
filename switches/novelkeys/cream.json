@@ -1,0 +1,11 @@
+{
+    "Brand": "Novelkeys",
+    "Switch": "Cream",
+    "Feel": "Linear",
+    "ActivationForce": 55,
+    "BottomOutForce": 70,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(cream)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Novelkeys_Cream_1_1024x1024@2x.jpg?v=1558706454"
+}

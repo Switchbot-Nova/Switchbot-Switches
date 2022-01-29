@@ -1,0 +1,11 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Box Silent Brown",
+    "Feel": "Tactile",
+    "ActivationForce": 45,
+    "BottomOutForce": 60,
+    "ActivationPoint": "-",
+    "TravelDistance": 3.6,
+    "RegEx": "(silent|brown)(brown|silent)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/KailhSilentBoxBrown_1024x1024@2x.png?v=1589824479"
+}

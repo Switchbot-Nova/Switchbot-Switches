@@ -1,0 +1,11 @@
+{
+    "Brand": "Novelkeys",
+    "Switch": "BOX Burnt Orange",
+    "Feel": "Tactile",
+    "ActivationForce": 60,
+    "BottomOutForce": 80,
+    "ActivationPoint": 1.93,
+    "TravelDistance": 3.6,
+    "RegEx": "(burnt|orange)(orange|burnt)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Cek4v3CX2La5HzBe4f_3owHaHa%26pid%3DApi&f=1"
+}

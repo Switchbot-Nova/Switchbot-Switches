@@ -1,0 +1,11 @@
+{
+    "Brand": "IBM",
+    "Switch": "Buckling Spring,\nCapacitative",
+    "Feel": "Clicky",
+    "ActivationForce": "-",
+    "BottomOutForce": 69,
+    "ActivationPoint": "-",
+    "TravelDistance": 4.1,
+    "RegEx": "(ibm|capacitative)(capacitative|ibm)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Af0vLlWg5Nda5nDTywqrdAHaLH%26pid%3DApi&f=1"
+}

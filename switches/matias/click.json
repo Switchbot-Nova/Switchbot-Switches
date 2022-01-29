@@ -1,0 +1,11 @@
+{
+    "Brand": "Matias",
+    "Switch": "Click",
+    "Feel": "Clicky",
+    "ActivationForce": 99,
+    "BottomOutForce": 54,
+    "ActivationPoint": 1.9,
+    "TravelDistance": 3.7,
+    "RegEx": "(matias|click)(click|matias)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.8C2_FC9Blwf7NEJA7GriAQHaHa%26pid%3DApi&f=1"
+}

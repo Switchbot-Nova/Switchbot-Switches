@@ -1,0 +1,11 @@
+{
+    "Brand": "Input Club",
+    "Switch": "Hako Violet",
+    "Feel": "Tactile",
+    "ActivationForce": 28,
+    "BottomOutForce": 50,
+    "ActivationPoint": 1.88,
+    "TravelDistance": 3.6,
+    "RegEx": "(hako|violet)(violet|hako)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Nv3KLA-9fFgIOmDdOOOfegHaHa%26pid%3DApi&f=1"
+}

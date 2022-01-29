@@ -1,0 +1,11 @@
+{
+    "Brand": "Matias",
+    "Switch": "Quiet Click",
+    "Feel": "Tactile",
+    "ActivationForce": 99,
+    "BottomOutForce": 54,
+    "ActivationPoint": 2.1,
+    "TravelDistance": 3.9,
+    "RegEx": "(quiet|click)(click|quiet)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.D7yrYSh2m3QTqlNxRFvnBwHaHa%26pid%3DApi&f=1"
+}

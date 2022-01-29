@@ -1,0 +1,11 @@
+{
+    "Brand": "Novelkeys",
+    "Switch": "Blueberry",
+    "Feel": "Tactile",
+    "ActivationForce": 55,
+    "BottomOutForce": 80,
+    "ActivationPoint": 3,
+    "TravelDistance": 4,
+    "RegEx": "(blueberry|blueberrie)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Blueberry_1024x1024@2x.png?v=1587750230"
+}

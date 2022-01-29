@@ -1,0 +1,11 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Speed Copper",
+    "Feel": "Tactile",
+    "ActivationForce": 50,
+    "BottomOutForce": 60,
+    "ActivationPoint": 1.1,
+    "TravelDistance": 3.5,
+    "RegEx": "(speed|copper)(copper|speed)",
+    "Image": "http://telcontar.net/KBK/SwitchCollection/images/Kailh/PG1511_Copper.jpg"
+}

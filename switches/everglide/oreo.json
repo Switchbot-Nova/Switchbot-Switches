@@ -1,0 +1,11 @@
+{
+    "Brand": "Everglide",
+    "Switch": "Oreo",
+    "Feel": "Tactile",
+    "ActivationForce": 50,
+    "BottomOutForce": 58,
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(oreo)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Oreo_1024x1024@2x.jpg?v=1579028597"
+}

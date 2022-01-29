@@ -1,0 +1,11 @@
+{
+    "Brand": "Novelkeys",
+    "Switch": "Silk Red",
+    "Feel": "Linear",
+    "ActivationForce": 35,
+    "BottomOutForce": 55,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(silk|red)(red|silk)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/TheSilkSeries-Red_1024x1024@2x.jpg?v=1595264657"
+}

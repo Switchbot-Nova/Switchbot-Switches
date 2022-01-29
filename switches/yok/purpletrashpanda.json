@@ -1,0 +1,11 @@
+{
+    "Brand": "YOK",
+    "Switch": "Purple Trash Panda",
+    "Feel": "Tactile",
+    "ActivationForce": 67,
+    "BottomOutForce": 70,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(purple|trashpanda)(trashpanda|purple)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Purple_Trash_Pandas_1024x1024@2x.jpg?v=1568658577"
+}

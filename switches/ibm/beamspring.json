@@ -1,0 +1,11 @@
+{
+    "Brand": "IBM",
+    "Switch": "Beam Spring",
+    "Feel": "Clicky",
+    "ActivationForce": "-",
+    "BottomOutForce": 44,
+    "ActivationPoint": "-",
+    "TravelDistance": 3.57,
+    "RegEx": "(ibm|beam)(beam|ibm)",
+    "Image": "https://i.ebayimg.com/images/g/caQAAOSwna1Zxwo4/s-l300.jpg"
+}

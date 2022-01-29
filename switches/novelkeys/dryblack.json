@@ -1,0 +1,11 @@
+{
+    "Brand": "Novelkeys",
+    "Switch": "Dry Black",
+    "Feel": "Linear",
+    "ActivationForce": 55,
+    "BottomOutForce": 72,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(dry|black)(black|dry)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/TheDrySeries-Black_1024x1024@2x.jpg?v=1595264828"
+}

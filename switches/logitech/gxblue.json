@@ -1,0 +1,10 @@
+{
+    "Brand": "Logitech",
+    "Switch": "GX Blue",
+    "Feel": "Clicky",
+    "ActivationForce": 50,
+    "ActivationPoint": 1.9,
+    "TravelDistance": 4,
+    "RegEx": "(gx|blue)(blue|gx)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.b3YwFW2e1p8-I-FSUSjshwHaEK%26pid%3DApi&f=1"
+}

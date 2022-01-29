@@ -1,0 +1,11 @@
+{
+    "Brand": "Cherry",
+    "Switch": "MX White",
+    "Feel": "Clicky",
+    "ActivationForce": 60,
+    "BottomOutForce": 82,
+    "ActivationPoint": 2.2,
+    "TravelDistance": 4,
+    "RegEx": "((cherry|mx)|white)(white|(cherry|mx))",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wovPGsiQ1Mcv4ss2tpxtvQAAAA%26pid%3DApi&f=1"
+}

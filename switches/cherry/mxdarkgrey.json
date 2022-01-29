@@ -1,0 +1,11 @@
+{
+    "Brand": "Cherry",
+    "Switch": "MX Dark Grey",
+    "Feel": "Linear",
+    "ActivationForce": 80,
+    "BottomOutForce": 115,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "((cherry|mx)|darkgrey)(darkgrey|(cherry|mx))",
+    "Image": "https://i.imgur.com/0Q8G3Uq.png"
+}

@@ -1,0 +1,11 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Silver",
+    "Feel": "Linear",
+    "ActivationForce": 27,
+    "BottomOutForce": 53,
+    "ActivationPoint": 1.3,
+    "TravelDistance": 3.5,
+    "RegEx": "(kailh|silver)(silver|kailh)",
+    "Image": "https://cdn.shopify.com/s/files/1/0920/0728/products/1010412_1200x1200.jpg?v=1572407929"
+}

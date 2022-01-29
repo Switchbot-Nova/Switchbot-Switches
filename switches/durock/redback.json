@@ -1,0 +1,11 @@
+{
+    "Brand": "Durock",
+    "Switch": "Redback",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 67,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(redback)",
+    "Image": "https://i.imgur.com/T4J5PWP.png"
+}

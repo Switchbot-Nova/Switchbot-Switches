@@ -1,0 +1,11 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Speed Bronze",
+    "Feel": "Clicky",
+    "ActivationForce": 50,
+    "BottomOutForce": 65,
+    "ActivationPoint": 1.1,
+    "TravelDistance": 3.5,
+    "RegEx": "(speed|bronze)(bronze|speed)",
+    "Image": "http://telcontar.net/KBK/SwitchCollection/images/Kailh/PG1511_Bronze.jpg"
+}

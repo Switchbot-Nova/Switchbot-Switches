@@ -1,0 +1,10 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Pro Burgundy",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "ActivationPoint": 1.7,
+    "TravelDistance": 3.6,
+    "RegEx": "(pro|burgundy)(burgundy|pro)",
+    "Image": "https://yushakobo.jp/wp-content/uploads/2019/04/A0200KP-BU-s.jpg"
+}

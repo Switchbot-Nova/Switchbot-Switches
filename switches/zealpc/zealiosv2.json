@@ -1,0 +1,11 @@
+{
+    "Brand": "ZealPC",
+    "Switch": "Zealios V2",
+    "Feel": "Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": "62/65/67/78",
+    "ActivationPoint": 2.4,
+    "TravelDistance": 4,
+    "RegEx": "(zealio)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.CH3uQJWEfod0QUHS613o1QHaHO%26pid%3DApi&f=1"
+}

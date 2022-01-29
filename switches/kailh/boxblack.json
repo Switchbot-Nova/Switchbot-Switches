@@ -1,0 +1,11 @@
+{
+    "Brand": "Kailh",
+    "Switch": "BOX Black",
+    "Feel": "Linear",
+    "ActivationForce": 60,
+    "BottomOutForce": 70,
+    "ActivationPoint": "-",
+    "TravelDistance": 3.6,
+    "RegEx": "(box|black)(black|box)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8KPlU1M4oPAwTK-U0O11vgHaHa%26pid%3DApi&f=1"
+}

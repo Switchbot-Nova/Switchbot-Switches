@@ -1,0 +1,11 @@
+{
+    "Brand": "Thic Thock",
+    "Switch": "Marshmallow",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": 68,
+    "ActivationPoint": 1.4,
+    "TravelDistance": "-",
+    "RegEx": "(marshmallow)",
+    "Image": "https://cdn.shopify.com/s/files/1/2772/6534/products/marsh01_2048x_bfe4cf56-d180-4aa3-9745-971d66f46d7d_480x480.jpg?v=1573884954"
+}

@@ -1,0 +1,11 @@
+{
+    "Brand": "Cherry",
+    "Switch": "MX Light Grey",
+    "Feel": "Tactile",
+    "ActivationForce": 67,
+    "BottomOutForce": 110,
+    "ActivationPoint": 2.2,
+    "TravelDistance": 4,
+    "RegEx": "((cherry|mx)|lightgrey)(lightgrey|(cherry|mx))",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Pa7RlCIYMS3gHUtK6_KkbwHaHa%26pid%3DApi&f=1"
+}

@@ -1,0 +1,10 @@
+{
+    "Brand": "Kailh",
+    "Switch": "Pro Light Green",
+    "Feel": "Clicky",
+    "ActivationForce": 50,
+    "ActivationPoint": 1.7,
+    "TravelDistance": 3.6,
+    "RegEx": "(light|green)(green|light)",
+    "Image": "https://yushakobo.jp/wp-content/uploads/2019/04/A0200KP-LG-s.jpg"
+}

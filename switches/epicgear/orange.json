@@ -1,0 +1,11 @@
+{
+    "Brand": "Epic Gear",
+    "Switch": "Orange",
+    "Feel": "Tactile",
+    "ActivationForce": 42,
+    "BottomOutForce": 63,
+    "ActivationPoint": 2.4,
+    "TravelDistance": 4,
+    "RegEx": "(epic|orange)(orange|epic)",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FCa6SgjmSMFVEMMratauaQHaHa%26pid%3DApi&f=1"
+}
