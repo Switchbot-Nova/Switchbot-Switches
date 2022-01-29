@@ -1,0 +1,11 @@
+{
+    "Brand": "Gateron",
+    "Switch": "Milky Black",
+    "Feel": "Linear",
+    "ActivationForce": 60,
+    "BottomOutForce": 75,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(milky|black)(black|milky)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Black_1024x1024@2x.jpg?v=1586273366"
+}

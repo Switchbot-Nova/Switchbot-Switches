@@ -1,0 +1,11 @@
+{
+    "Brand": "Gateron",
+    "Switch": "Merlot",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 45,
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(merlot)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/GateronMerlot_1024x1024@2x.png?v=1586274163"
+}

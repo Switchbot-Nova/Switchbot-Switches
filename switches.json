@@ -96,17 +96,6 @@
     "Image": "https://cdn.mos.cms.futurecdn.net/a5657d3d00e2b473fb9f532b54e00bb2-320-80.jpg"
   },
   {
-    "Brand": "Gateron",
-    "Switch": "Translucent White",
-    "Feel": "Linear",
-    "ActivationForce": 27,
-    "BottomOutForce": 40,
-    "ActivationPoint": 1.7,
-    "TravelDistance": 4,
-    "RegEx": "(translucent|white)(white|translucent)",
-    "Image": "https://input.club/wp-content/uploads/2016/09/gateron-trans-white.jpg"
-  },
-  {
     "Brand": "Kailh",
     "Switch": "Pro Burgundy",
     "Feel": "Linear",
@@ -411,50 +400,6 @@
     "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.C57wp7H2yg6UEZo7ilFvOAHaHZ%26pid%3DApi&f=1"
   },
   {
-    "Brand": "Gateron",
-    "Switch": "Clear",
-    "Feel": "Linear",
-    "ActivationForce": 35,
-    "BottomOutForce": "-",
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "((gateron|gat)|clear)(clear|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.joykeyco.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fgat_clear_01.jpg&f=1&nofb=1"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Yellow",
-    "Feel": "Linear",
-    "ActivationForce": 50,
-    "BottomOutForce": 65,
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "((gateron|gat)|yellow)(yellow|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.staticbg.com%2Fimages%2Foaupload%2Fbanggood%2Fimages%2F9F%2FFB%2F856d6398-58bf-42b6-8b2b-0649afce6227.JPG&f=1&nofb=1"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Black",
-    "Feel": "Linear",
-    "ActivationForce": 60,
-    "BottomOutForce": 75,
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "((gateron|gat)|black)(black|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finput.club%2Fwp-content%2Fuploads%2F2016%2F08%2Fgateron-black.jpg&f=1&nofb=1"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Green",
-    "Feel": "Clicky",
-    "ActivationForce": 80,
-    "BottomOutForce": "-",
-    "ActivationPoint": 2.2,
-    "TravelDistance": 4,
-    "RegEx": "((gateron|gat)|green)(green|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.sPgUMO2C6P_bCdQl5SnzSwHaHa%26pid%3DApi&f=1"
-  },
-  {
     "Brand": "Razer",
     "Switch": "Orange",
     "Feel": "Tactile",
@@ -596,17 +541,6 @@
     "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wovPGsiQ1Mcv4ss2tpxtvQAAAA%26pid%3DApi&f=1"
   },
   {
-    "Brand": "Gateron",
-    "Switch": "Blue",
-    "Feel": "Clicky",
-    "ActivationForce": 45,
-    "BottomOutForce": 60,
-    "ActivationPoint": 2.2,
-    "TravelDistance": 4,
-    "RegEx": "((gateron|gat)|blue)(blue|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Fz-QLnHucMiNdk3SJDxNkAHaHa%26pid%3DApi&f=1"
-  },
-  {
     "Brand": "Greetech",
     "Switch": "Blue",
     "Feel": "Clicky",
@@ -662,17 +596,6 @@
     "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FCa6SgjmSMFVEMMratauaQHaHa%26pid%3DApi&f=1"
   },
   {
-    "Brand": "Gateron",
-    "Switch": "Red",
-    "Feel": "Linear",
-    "ActivationForce": 45,
-    "BottomOutForce": 50,
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "((gateron|gat)|red)(red|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YfF2tnba1RBUgKDVao3hoAHaHa%26pid%3DApi&f=1"
-  },
-  {
     "Brand": "Greetech",
     "Switch": "Red",
     "Feel": "Linear",
@@ -704,17 +627,6 @@
     "TravelDistance": 4,
     "RegEx": "(outemu|black)(black|outemu)",
     "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FR2SdIUoeykOnefL7J7KIQHaHa%26pid%3DApi&f=1"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Brown",
-    "Feel": "Tactile",
-    "ActivationForce": 45,
-    "BottomOutForce": 60,
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "((gateron|gat)|brown)(brown|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.9FzVa4gpfL_53yvt101llQHaHa%26pid%3DApi&f=1"
   },
   {
     "Brand": "Outemu",
@@ -926,72 +838,6 @@
     "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Jade_Green_1024x1024@2x.jpg?v=1579028597"
   },
   {
-    "Brand": "Gateron",
-    "Switch": "Black Ink",
-    "Feel": "Linear",
-    "ActivationForce": 60,
-    "BottomOutForce": 80,
-    "ActivationPoint": "-",
-    "TravelDistance": 4,
-    "RegEx": "(ink|black)(black|ink)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Ink_11919f2c-460b-406c-a3e5-ed59e8a151ac_1024x1024@2x.jpg?v=1579882883"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Silent Black Ink",
-    "Feel": "Linear",
-    "ActivationForce": 60,
-    "BottomOutForce": 70,
-    "ActivationPoint": "-",
-    "TravelDistance": 4,
-    "RegEx": "(ink|silent)(silent|ink)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Silent_Ink_9ac04be0-02d3-495a-a1a4-2b0f5f5640f0_1024x1024@2x.jpg?v=1579882883"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Red Ink",
-    "Feel": "Linear",
-    "ActivationForce": 45,
-    "BottomOutForce": 60,
-    "ActivationPoint": "-",
-    "TravelDistance": 4,
-    "RegEx": "(ink|red)(red|ink)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Red_Ink_957cd461-2ff0-4314-a1f0-556ce65f50c4_1024x1024@2x.jpg?v=1579882883"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Yellow Ink",
-    "Feel": "Linear",
-    "ActivationForce": 60,
-    "BottomOutForce": 67,
-    "ActivationPoint": "-",
-    "TravelDistance": 3.4,
-    "RegEx": "(ink|yellow)(yellow|ink)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Yellow_Ink_170f241e-97de-438a-9ed2-28aad8ed8d8c_1024x1024@2x.jpg?v=1579882883"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Blue Ink",
-    "Feel": "Clicky",
-    "ActivationForce": 60,
-    "BottomOutForce": 70,
-    "ActivationPoint": "-",
-    "TravelDistance": 4,
-    "RegEx": "(ink|blue)(blue|ink)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Blue_Ink_37fe0c9c-1d31-4d8d-9fd1-dce11f833780_1024x1024@2x.jpg?v=1579882883"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Merlot",
-    "Feel": "Linear",
-    "ActivationForce": "-",
-    "BottomOutForce": 45,
-    "ActivationPoint": "-",
-    "TravelDistance": 4,
-    "RegEx": "(merlot)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/GateronMerlot_1024x1024@2x.png?v=1586274163"
-  },
-  {
     "Brand": "JWK",
     "Switch": "H1",
     "Feel": "Linear",
@@ -1190,83 +1036,6 @@
     "Image": "https://www.1upkeyboards.com/wp-content/uploads/2019/10/Switch-Outemu-Sky-Top.jpg"
   },
   {
-    "Brand": "Gateron",
-    "Switch": "Milky Yellow",
-    "Feel": "Linear",
-    "ActivationForce": 50,
-    "BottomOutForce": 65,
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "(milky|yellow)(yellow|milky)",
-    "Image": "https://flashquark.com/wp-content/uploads/2019/11/Gateron-Milky-Yellow-PCB-Mount.jpg"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Milky Brown",
-    "Feel": "Tactile",
-    "ActivationForce": 45,
-    "BottomOutForce": 60,
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "(milky|brown)(brown|milky)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Brown_1024x1024@2x.jpg?v=1586273366"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Milky Red",
-    "Feel": "Linear",
-    "ActivationForce": 45,
-    "BottomOutForce": 50,
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "(milky|red)(red|milky)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Red_1024x1024@2x.jpg?v=1586273366"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Milky Blue",
-    "Feel": "Clicky",
-    "ActivationForce": 45,
-    "BottomOutForce": 60,
-    "ActivationPoint": 2.2,
-    "TravelDistance": 4,
-    "RegEx": "(milky|blue)(blue|milky)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Blue_1024x1024@2x.jpg?v=1586273366"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Milky Clear",
-    "Feel": "Linear",
-    "ActivationForce": 35,
-    "BottomOutForce": "-",
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "(milky|clear)(clear|milky)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Clear_1024x1024@2x.jpg?v=1586273366"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Milky Black",
-    "Feel": "Linear",
-    "ActivationForce": 60,
-    "BottomOutForce": 75,
-    "ActivationPoint": 2,
-    "TravelDistance": 4,
-    "RegEx": "(milky|black)(black|milky)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Black_1024x1024@2x.jpg?v=1586273366"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Milky Green",
-    "Feel": "Clicky",
-    "ActivationForce": 80,
-    "BottomOutForce": "-",
-    "ActivationPoint": 2.2,
-    "TravelDistance": 4,
-    "RegEx": "(milky|green)(green|milky)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Green_1024x1024@2x.jpg?v=1586273366"
-  },
-  {
     "Brand": "ZealPC",
     "Switch": "Tealios V2",
     "Feel": "Linear",
@@ -1298,17 +1067,6 @@
     "TravelDistance": "-",
     "RegEx": "(healio)",
     "Image": "https://cdn.shopify.com/s/files/1/0490/7329/products/healios_v2.jpg?v=1582176361"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Pink",
-    "Feel": "Linear",
-    "ActivationForce": "-",
-    "BottomOutForce": 65,
-    "ActivationPoint": "-",
-    "TravelDistance": "-",
-    "RegEx": "((gateron|gat)|pink)(pink|(gateron|gat))",
-    "Image": "https://i.imgur.com/1RqxmBy.png"
   },
   {
     "Brand": "JWK",
@@ -1474,16 +1232,5 @@
     "TravelDistance": "-",
     "RegEx": "((glorious|panda)(panda|glorious))|(gp)",
     "Image": "https://cdn.shopify.com/s/files/1/0549/2681/products/front.png?v=1599234810"
-  },
-  {
-    "Brand": "Gateron",
-    "Switch": "Oil King",
-    "Feel": "Linear",
-    "ActivationForce": 55,
-    "BottomOutForce": 80,
-    "ActivationPoint": "-",
-    "TravelDistance": 4,
-    "RegEx": "(((gateron|gat)|oil)(oil|(gateron|gat)))|(oilking)",
-    "Image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/gateron-oil-king-linear-switches-389141.jpg?v=1642045846"
   }
 ]

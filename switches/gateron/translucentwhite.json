@@ -1,0 +1,11 @@
+{
+    "Brand": "Gateron",
+    "Switch": "Translucent White",
+    "Feel": "Linear",
+    "ActivationForce": 27,
+    "BottomOutForce": 40,
+    "ActivationPoint": 1.7,
+    "TravelDistance": 4,
+    "RegEx": "(translucent|white)(white|translucent)",
+    "Image": "https://input.club/wp-content/uploads/2016/09/gateron-trans-white.jpg"
+}

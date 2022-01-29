@@ -1,0 +1,11 @@
+{
+    "Brand": "Gateron",
+    "Switch": "Milky Blue",
+    "Feel": "Clicky",
+    "ActivationForce": 45,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2.2,
+    "TravelDistance": 4,
+    "RegEx": "(milky|blue)(blue|milky)",
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Blue_1024x1024@2x.jpg?v=1586273366"
+}

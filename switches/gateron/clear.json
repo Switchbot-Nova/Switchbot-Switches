@@ -1,0 +1,11 @@
+{
+    "Brand": "Gateron",
+    "Switch": "Clear",
+    "Feel": "Linear",
+    "ActivationForce": 35,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "((gateron|gat)|clear)(clear|(gateron|gat))",
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.joykeyco.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fgat_clear_01.jpg&f=1&nofb=1"
+}

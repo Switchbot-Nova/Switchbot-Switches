@@ -1,0 +1,11 @@
+{
+    "Brand": "Gateron",
+    "Switch": "Pink",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 65,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "((gateron|gat)|pink)(pink|(gateron|gat))",
+    "Image": "https://i.imgur.com/1RqxmBy.png"
+}
