@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Jelly Pink",
+    "Feel": "Linear",
+    "ActivationForce": 45,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(jelly|pink)(pink|jelly)",
+    "Image": "https://keybumps.com/img/800sw/akko-cs-jelly-pink.jpg",
+    "Pin": 3
+}
