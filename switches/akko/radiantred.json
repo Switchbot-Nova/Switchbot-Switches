@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Radiant Red",
+    "Feel": "Linear",
+    "ActivationForce": 53,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(radiant|red)(red|radiant)",
+    "Image": "https://keybumps.com/img/800sw/akko-cs-radiant-red.jpg",
+    "Pin": 3
+}

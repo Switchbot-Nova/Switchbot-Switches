@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Starfish",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(starfish|starfishy)",
+    "Image": "https://keybumps.com/img/800sw/akko-cs-starfish.jpg",
+    "Pin": 3
+}

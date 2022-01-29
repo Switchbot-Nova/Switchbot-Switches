@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Gateron Yellow",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(gateron|yellow)(yellow|gateron)",
+    "Image": "https://keybumps.com/img/800sw/akko-gateron-yellow.jpg",
+    "Pin": 3
+}

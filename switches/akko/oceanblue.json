@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Ocean Blue",
+    "Feel": "Tactile",
+    "ActivationForce": 45,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(ocean|blue)(blue|ocean)",
+    "Image": "https://m.media-amazon.com/images/I/61HvleE33GL._AC_SL1500_.jpg",
+    "Pin": 3
+}

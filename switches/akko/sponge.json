@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Sponge",
+    "Feel": "Tactile",
+    "ActivationForce": 40,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(sponge|spongie)",
+    "Image": "https://keybumps.com/img/800sw/akko-cs-sponge.jpg",
+    "Pin": 3
+}

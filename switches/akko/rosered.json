@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Rose Red",
+    "Feel": "Linear",
+    "ActivationForce": 43,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(rose|red)(red|rose)",
+    "Image": "https://m.media-amazon.com/images/I/41kFKM7WRvS._SL1000_.jpg",
+    "Pin": 3
+}

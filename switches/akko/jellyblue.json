@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Jelly Blue",
+    "Feel": "Tactile",
+    "ActivationForce": 40,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(jelly|blue)(blue|jelly)",
+    "Image": "https://keybumps.com/img/800sw/akko-cs-jelly-blue.jpg",
+    "Pin": 3
+}

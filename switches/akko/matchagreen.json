@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Matcha Green",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(matcha|green)(green|matcha)",
+    "Image": "https://m.media-amazon.com/images/I/51mai1pH7VS._SL1000_.jpg",
+    "Pin": 3
+}
