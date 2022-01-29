@@ -1,0 +1,12 @@
+{
+    "Brand": "Durock",
+    "Switch": "EV-02",
+    "Feel": "Linear",
+    "ActivationForce": 63.5,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(ev02)(ev-02)",
+    "Image": "https://keybumps.com/img/800sw/durock-ev-02.jpg",
+    "Pin": 5
+}

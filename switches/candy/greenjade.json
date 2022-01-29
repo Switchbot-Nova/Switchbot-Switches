@@ -1,0 +1,12 @@
+{
+    "Brand": "Candy",
+    "Switch": "Green Jade",
+    "Feel": "Linear",
+    "ActivationForce": "55/62",
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(green|jade)(jade|green)",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/515FzzrcEMS._AC_SL1500_.jpg",
+    "Pin": 5
+}

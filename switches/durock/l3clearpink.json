@@ -1,0 +1,12 @@
+{
+    "Brand": "Durock",
+    "Switch": "L1 Clear Pink",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 65,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(clear|pink)(pink|clear)",
+    "Image": "https://keybumps.com/img/800sw/durock-l3-clear.jpg",
+    "Pin": 5
+}

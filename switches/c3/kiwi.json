@@ -1,0 +1,12 @@
+{
+    "Brand": "C³ x TKC",
+    "Switch": "Kiwi",
+    "Feel": "Tactile",
+    "ActivationForce": 43,
+    "BottomOutForce": 67,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(kiwi)",
+    "Image": "https://keybumps.com/img/800sw/c3equalz-kiwi.jpg",
+    "Pin": 5
+}

@@ -1,0 +1,11 @@
+{
+    "Brand": "Tecsee",
+    "Switch": "Ice Candy Nylon",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 63.5,
+    "ActivationPoint": "-",
+    "TravelDistance": 3.5,
+    "RegEx": "(ice|candy)(candy|ice)",
+    "Image": "https://1upkeyboards.com/wp-content/uploads/2021/10/Switches-Tecsee-Ice-Candy-01.jpg"
+}

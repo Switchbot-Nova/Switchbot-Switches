@@ -1,0 +1,12 @@
+{
+    "Brand": "Durock",
+    "Switch": "L1 Smokey Yellow",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 55,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(smokey|yellow)(yellow|smokey)",
+    "Image": "https://m.media-amazon.com/images/I/61Fnf4rRrJL._AC_SL1500_.jpg",
+    "Pin": 5
+}

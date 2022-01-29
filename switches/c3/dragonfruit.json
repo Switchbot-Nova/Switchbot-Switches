@@ -1,0 +1,12 @@
+{
+    "Brand": "C³ x TKC",
+    "Switch": "Dragon Fruit",
+    "Feel": "Tactile",
+    "ActivationForce": 63.5,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(dragon|fruit)(fruit|dragon)",
+    "Image": "https://keybumps.com/img/800sw/c3equalz-dragon-fruit.jpg",
+    "Pin": 5
+}

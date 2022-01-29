@@ -1,12 +1,12 @@
 {
     "Brand": "Durock",
-    "Switch": "Redback",
+    "Switch": "L4 Clear Purple",
     "Feel": "Linear",
     "ActivationForce": "-",
     "BottomOutForce": 67,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "(redback)",
-    "Image": "https://i.imgur.com/T4J5PWP.png",
+    "RegEx": "(l4)",
+    "Image": "https://keybumps.com/img/800sw/durock-l4-clear.jpg",
     "Pin": 5
 }

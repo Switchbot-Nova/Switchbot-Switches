@@ -1,0 +1,11 @@
+{
+    "Brand": "SP-Star",
+    "Switch": "Cyber",
+    "Feel": "Linear",
+    "ActivationForce": 62,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(cyber)",
+    "Image": "https://keybumps.com/img/800sw/sp-star-cyber.jpg"
+}

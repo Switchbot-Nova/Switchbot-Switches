@@ -1,0 +1,12 @@
+{
+    "Brand": "Candy",
+    "Switch": "Sakura Snow  ",
+    "Feel": "Tactile",
+    "ActivationForce": "62/66",
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(sakura|snow)(snow|sakura)",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/61cgY7uedNS._AC_SL1500_.jpg",
+    "Pin": 5
+}

@@ -1,0 +1,11 @@
+{
+    "Brand": "Invokeys",
+    "Switch": "Matcha Latte",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 60,
+    "ActivationPoint": "-",
+    "TravelDistance": 3.5,
+    "RegEx": "(matcha|latte)(latte|matcha)",
+    "Image": "https://cdn.shopify.com/s/files/1/0563/2144/1950/products/image_048db2c8-8b93-477a-bba2-01462f9afb8f.jpg?v=1637179667"
+}

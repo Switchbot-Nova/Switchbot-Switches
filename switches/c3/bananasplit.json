@@ -2,10 +2,11 @@
     "Brand": "C³",
     "Switch": "Banana Split/Macho",
     "Feel": "Linear",
-    "ActivationForce": "-",
+    "ActivationForce": 45,
     "BottomOutForce": 62,
-    "ActivationPoint": "-",
-    "TravelDistance": "-",
-    "RegEx": "((glorious|panda)(panda|glorious))|(gp)",
-    "Image": "https://cdn.shopify.com/s/files/1/0549/2681/products/front.png?v=1599234810"
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(banana|split)(split|banana)",
+    "Image": "https://cdn.shopify.com/s/files/1/0549/2681/products/front.png?v=1599234810",
+    "Pin": 5
 }

@@ -1,0 +1,12 @@
+{
+    "Brand": "Durock",
+    "Switch": "L1 Clear Yellow",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 55,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(clear|yellow)(yellow|clear)",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/61TRJ-OzTrL._AC_SL1500_.jpg",
+    "Pin": 5
+}

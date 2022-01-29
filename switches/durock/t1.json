@@ -4,8 +4,9 @@
     "Feel": "Tactile",
     "ActivationForce": "-",
     "BottomOutForce": 67,
-    "ActivationPoint": "-",
-    "TravelDistance": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
     "RegEx": "(t1)",
-    "Image": "https://i.imgur.com/7uwlAfN.png"
+    "Image": "https://i.imgur.com/7uwlAfN.png",
+    "Pin": 5
 }

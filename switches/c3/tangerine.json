@@ -2,10 +2,11 @@
     "Brand": "C³",
     "Switch": "Tangerine",
     "Feel": "Linear",
-    "ActivationForce": "-",
-    "BottomOutForce": 67,
-    "ActivationPoint": "-",
-    "TravelDistance": "-",
+    "ActivationForce": "62/67",
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
     "RegEx": "(tangerine|tangie)",
-    "Image": "https://cdn.shopify.com/s/files/1/1679/2319/products/C3-Tangerine_R2_dark-green_590x.jpg?v=1587601407"
+    "Image": "https://cdn.shopify.com/s/files/1/1679/2319/products/C3-Tangerine_R2_dark-green_590x.jpg?v=1587601407",
+    "Pin": 5
 }

@@ -1,0 +1,12 @@
+{
+    "Brand": "C³",
+    "Switch": "Fierce Girl",
+    "Feel": "Linear",
+    "ActivationForce": 58.5,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(fierce|girl)(girl|fierce)",
+    "Image": "https://keybumps.com/img/800sw/c3equalz-fierce-girl.jpg",
+    "Pin": 5
+}

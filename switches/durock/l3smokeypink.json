@@ -1,0 +1,12 @@
+{
+    "Brand": "Durock",
+    "Switch": "L1 Smokey Pink",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 65,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(smokey|pink)(pink|smokey)",
+    "Image": "https://keybumps.com/img/800sw/durock-l3-smokey.jpg",
+    "Pin": 5
+}

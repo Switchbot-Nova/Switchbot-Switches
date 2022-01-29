@@ -1,0 +1,11 @@
+{
+    "Brand": "YOK",
+    "Switch": "Polar Panda",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(polar|panda)(panda|polar)",
+    "Image": "https://keybumps.com/img/800sw/yok-polar-panda.jpg"
+}

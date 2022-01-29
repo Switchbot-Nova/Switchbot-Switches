@@ -1,0 +1,12 @@
+{
+    "Brand": "Domikey",
+    "Switch": "Knight Saber",
+    "Feel": "Tactile",
+    "ActivationForce": 42,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(knight|saber)(saber|knight)",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/61OdKWrL9zS._AC_SL1500_.jpg",
+    "Pin": 5
+}

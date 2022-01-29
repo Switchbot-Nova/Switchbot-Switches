@@ -3,9 +3,10 @@
     "Switch": "L7",
     "Feel": "Linear",
     "ActivationForce": "-",
-    "BottomOutForce": 67,
-    "ActivationPoint": "-",
-    "TravelDistance": "-",
+    "BottomOutForce": "62/67/78",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
     "RegEx": "(l7)",
-    "Image": "https://i.imgur.com/251Rgs0.png"
+    "Image": "https://i.imgur.com/251Rgs0.png",
+    "Pin": 5
 }

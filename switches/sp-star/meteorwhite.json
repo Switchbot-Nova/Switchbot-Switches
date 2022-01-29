@@ -1,0 +1,11 @@
+{
+    "Brand": "SP-Star",
+    "Switch": "Meteor White",
+    "Feel": "Linear",
+    "ActivationForce": 57,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(meteor|white)(white|meteor)",
+    "Image": "https://keybumps.com/img/800sw/sp-star-meteor-white.jpg"
+}

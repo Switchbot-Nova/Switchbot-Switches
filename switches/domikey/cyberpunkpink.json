@@ -1,0 +1,12 @@
+{
+    "Brand": "Domikey",
+    "Switch": "Cyberpunk Pink",
+    "Feel": "Tactile",
+    "ActivationForce": "62/67",
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(cyberpunk|pink)(pink|cyberpunk)",
+    "Image": "https://m.media-amazon.com/images/I/51I+t2CqdkL._AC_SL1500_.jpg",
+    "Pin": 5
+}

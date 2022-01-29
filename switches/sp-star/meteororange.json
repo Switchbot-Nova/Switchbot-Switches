@@ -1,0 +1,11 @@
+{
+    "Brand": "SP-Star",
+    "Switch": "Meteor Orange",
+    "Feel": "Tactile",
+    "ActivationForce": 57,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(meteor|orange)(orange|meteor)",
+    "Image": "https://keybumps.com/img/800sw/sp-star-meteor-orange.jpg"
+}

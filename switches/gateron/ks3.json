@@ -1,0 +1,11 @@
+{
+    "Brand": "Gateron",
+    "Switch": "Yellow KS-3",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 63.5,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "(ks3)",
+    "Image": "https://42keebs.eu/wp-content/uploads/2021/01/IMG_20210210_142317.jpg"
+}

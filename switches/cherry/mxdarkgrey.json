@@ -7,5 +7,6 @@
     "ActivationPoint": 2,
     "TravelDistance": 4,
     "RegEx": "((cherry|mx)|darkgrey)(darkgrey|(cherry|mx))",
-    "Image": "https://i.imgur.com/0Q8G3Uq.png"
+    "Image": "https://i.imgur.com/0Q8G3Uq.png",
+    "Pin": 3
 }

@@ -1,0 +1,12 @@
+{
+    "Brand": "Durock",
+    "Switch": "Dolphin",
+    "Feel": "Silent Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 62,
+    "ActivationPoint": 2,
+    "TravelDistance": 3.8,
+    "RegEx": "(dolphin)",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/6173xLq7UNL._AC_SL1001_.jpg",
+    "Pin": 5
+}

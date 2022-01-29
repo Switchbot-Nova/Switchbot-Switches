@@ -1,0 +1,11 @@
+{
+    "Brand": "YOK",
+    "Switch": "Mint Panda",
+    "Feel": "Tactile",
+    "ActivationForce": 50,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(mint|panda)(panda|mint)",
+    "Image": "https://keybumps.com/img/800sw/yok-mint-panda.jpg"
+}

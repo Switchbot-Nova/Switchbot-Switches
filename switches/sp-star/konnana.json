@@ -1,0 +1,11 @@
+{
+    "Brand": "SP-Star",
+    "Switch": "Kon Nana",
+    "Feel": "Linear",
+    "ActivationForce": 65,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(kon|momo)(momo|kom)",
+    "Image": "https://keybumps.com/img/800sw/sp-star-nana.jpg"
+}

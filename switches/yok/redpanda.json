@@ -1,0 +1,11 @@
+{
+    "Brand": "YOK",
+    "Switch": "Red Panda",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(red|panda)(panda|red)",
+    "Image": "https://keybumps.com/img/800sw/yok-red-panda.jpg"
+}

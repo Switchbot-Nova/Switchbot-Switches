@@ -1,0 +1,11 @@
+{
+    "Brand": "SP-Star",
+    "Switch": "Polaris Gray",
+    "Feel": "Tactile",
+    "ActivationForce": 67,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(polaris|gray)(gray|polaris)",
+    "Image": "https://keybumps.com/img/800sw/sp-star-gray.jpg"
+}

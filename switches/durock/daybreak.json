@@ -1,0 +1,12 @@
+{
+    "Brand": "Durock",
+    "Switch": "Daybreak",
+    "Feel": "Silent Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 67,
+    "ActivationPoint": 2,
+    "TravelDistance": 3.8,
+    "RegEx": "(daybreak)",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/61E-UMDEaqL._AC_SL1001_.jpg",
+    "Pin": 5
+}

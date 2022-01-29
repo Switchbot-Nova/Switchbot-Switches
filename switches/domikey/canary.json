@@ -1,0 +1,12 @@
+{
+    "Brand": "Domikey",
+    "Switch": "Canary",
+    "Feel": "Tactile",
+    "ActivationForce": 42,
+    "BottomOutForce": 60,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(canary)",
+    "Image": "https://keybumps.com/img/800sw/kailh-canary.jpg",
+    "Pin": 5
+}

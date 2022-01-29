@@ -7,5 +7,6 @@
     "ActivationPoint": 2,
     "TravelDistance": 4,
     "RegEx": "(koala)",
-    "Image": "https://i.imgur.com/qLYXGhP.png"
+    "Image": "https://i.imgur.com/qLYXGhP.png",
+    "Pin": 5
 }

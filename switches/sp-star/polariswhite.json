@@ -1,0 +1,11 @@
+{
+    "Brand": "SP-Star",
+    "Switch": "Polaris White",
+    "Feel": "Linear",
+    "ActivationForce": 57,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(polaris|white)(white|polaris)",
+    "Image": "https://keybumps.com/img/800sw/sp-star-white.jpg"
+}
