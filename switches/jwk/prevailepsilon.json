@@ -1,0 +1,11 @@
+{
+    "Brand": "JWK",
+    "Switch": "Prevail Epsilon",
+    "Feel": "Linear Progressive",
+    "ActivationForce": "-",
+    "BottomOutForce": 68,
+    "ActivationPoint": "-",
+    "TravelDistance": "-",
+    "RegEx": "([p|P]revail ?[e|E]psilon)|([e|E]psilon ?[p|P]revail)",
+    "Image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/prevail-epsilon-switch_b39929dc-b3f1-43d4-a45f-d2b05a0734a7_1800x1800.png?v=1637079244"
+}
