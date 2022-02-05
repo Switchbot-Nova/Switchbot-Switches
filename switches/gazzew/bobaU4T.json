@@ -1,0 +1,12 @@
+{
+    "Brand": "Gazzew",
+    "Switch": "Boba U4T",
+    "Feel": "Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": "62/68",
+    "ActivationPoint": "2",
+    "TravelDistance": "4",
+    "RegEx": "(gazzew | U4T)",
+    "Image": "https://keybumps.com/img/300sw/gazzew-boba-u4t.jpg",
+    "Pin": 5
+}
