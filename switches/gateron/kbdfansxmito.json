@@ -1,0 +1,11 @@
+{
+    "Brand": "Gateron",
+    "Switch": "KBDFans x Mito",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": "60/70",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "([k|K][b|B][d|D][f|F]ans ?x ?)?[m|M]i[t|T]o ?([l|L]aser)?",
+    "Image": "https://cdn.shopify.com/s/files/1/1473/3902/products/6_8a4f6399-458b-4c2c-9588-608de181c9f3.jpg?v=1584437060"
+}
