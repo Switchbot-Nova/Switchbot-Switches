@@ -1,0 +1,12 @@
+{
+     "Brand": "Gazzew",
+     "Switch": "Boba LT",
+     "Feel": "Linear",
+     "ActivationForce": "-",
+     "BottomOutForce": "55/65",
+     "ActivationPoint": "2",
+     "TravelDistance": "3",
+     "RegEx": "(boba | LT)",
+     "Image": "https://www.keycrox.co.uk/products/JVANRPNT_8cR.webp?v=uodate2022",
+     "Pin": 5
+ }
