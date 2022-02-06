@@ -1,0 +1,12 @@
+{
+     "Brand": "Ajazz",
+     "Switch": "Diced Fruit Kiwi",
+     "Feel": "Tactile",
+     "ActivationForce": "-",
+     "BottomOutForce": "50",
+     "ActivationPoint": "1.9",
+     "TravelDistance": "3.3",
+     "RegEx": "(Diced | kiwi)",
+     "Image": "https://keybumps.com/img/800sw/ajazz-diced-fruit-kiwi.jpg",
+     "Pin": 5
+ }
