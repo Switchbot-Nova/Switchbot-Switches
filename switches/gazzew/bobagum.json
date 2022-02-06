@@ -1,0 +1,12 @@
+{
+     "Brand": "Gazzew",
+     "Switch": "Bobagum",
+     "Feel": "Silent Linear",
+     "ActivationForce": "-",
+     "BottomOutForce": "52/62/68",
+     "ActivationPoint": "2",
+     "TravelDistance": "4",
+     "RegEx": "(gazzew | Bobagum) (bobagum | gazzew)",
+     "Image": "https://cdn.shopify.com/s/files/1/0227/9171/6941/products/Bobagum_Top_1050x700.jpg?v=1610576152",
+     "Pin": 5
+ }

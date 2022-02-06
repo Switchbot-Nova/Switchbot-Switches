@@ -1,0 +1,12 @@
+{
+    "Brand": "Gazzew",
+    "Switch": "Boba U4",
+    "Feel": "Silent Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": "62/68",
+    "ActivationPoint": "2",
+    "TravelDistance": "4",
+    "RegEx": "(gazzew | Boba) (boba | gazzew)",
+    "Image": "https://keybumps.com/img/300sw/gazzew-boba.jpg",
+    "Pin": 5
+}
