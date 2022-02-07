@@ -6,7 +6,7 @@
      "BottomOutForce": "40",
      "ActivationPoint": "2",
      "TravelDistance": "4",
-     "RegEx": "(diced | peach)",
+     "RegEx": "(diced|peach)",
      "Image": "https://keybumps.com/img/800sw/ajazz-diced-fruit-peach.jpg",
      "Pin": 5
  }
