@@ -6,7 +6,7 @@
      "BottomOutForce": "50",
      "ActivationPoint": "1.9",
      "TravelDistance": "3.3",
-     "RegEx": "(Diced | kiwi)",
+     "RegEx": "(diced | kiwi)",
      "Image": "https://keybumps.com/img/800sw/ajazz-diced-fruit-kiwi.jpg",
      "Pin": 5
  }
