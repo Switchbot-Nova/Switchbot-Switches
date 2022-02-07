@@ -1,0 +1,12 @@
+{
+     "Brand": "Ajazz",
+     "Switch": "Diced Fruit Peach",
+     "Feel": "Linear",
+     "ActivationForce": "-",
+     "BottomOutForce": "40",
+     "ActivationPoint": "2",
+     "TravelDistance": "4",
+     "RegEx": "(diced|peach)",
+     "Image": "https://keybumps.com/img/800sw/ajazz-diced-fruit-peach.jpg",
+     "Pin": 5
+ }

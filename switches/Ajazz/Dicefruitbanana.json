@@ -1,0 +1,12 @@
+{
+     "Brand": "Ajazz",
+     "Switch": "Diced Fruit Banana",
+     "Feel": "Tactile",
+     "ActivationForce": "-",
+     "BottomOutForce": "40",
+     "ActivationPoint": "1.9",
+     "TravelDistance": "3.3",
+     "RegEx": "(diced|banana)",
+     "Image": "https://keybumps.com/img/800sw/ajazz-diced-fruit-banana.jpg",
+     "Pin": 5
+ }
