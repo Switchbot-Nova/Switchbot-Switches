@@ -7,5 +7,6 @@
     "ActivationPoint": 2,
     "TravelDistance": 4,
     "RegEx": "(milky|yellow)(yellow|milky)",
-    "Image": "https://flashquark.com/wp-content/uploads/2019/11/Gateron-Milky-Yellow-PCB-Mount.jpg"
+    "Image": "https://flashquark.com/wp-content/uploads/2019/11/Gateron-Milky-Yellow-PCB-Mount.jpg",
+    "Pin": 5
 }

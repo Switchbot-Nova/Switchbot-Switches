@@ -7,5 +7,6 @@
     "ActivationPoint": 2,
     "TravelDistance": 4,
     "RegEx": "((gateron|gat)|yellow)(yellow|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.staticbg.com%2Fimages%2Foaupload%2Fbanggood%2Fimages%2F9F%2FFB%2F856d6398-58bf-42b6-8b2b-0649afce6227.JPG&f=1&nofb=1"
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.staticbg.com%2Fimages%2Foaupload%2Fbanggood%2Fimages%2F9F%2FFB%2F856d6398-58bf-42b6-8b2b-0649afce6227.JPG&f=1&nofb=1",
+    "Pin": 5
 }

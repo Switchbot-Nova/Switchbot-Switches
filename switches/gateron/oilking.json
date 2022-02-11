@@ -7,5 +7,6 @@
     "ActivationPoint": "-",
     "TravelDistance": 4,
     "RegEx": "(((gateron|gat)|oil)(oil|(gateron|gat)))|(oilking)",
-    "Image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/gateron-oil-king-linear-switches-389141.jpg?v=1642045846"
+    "Image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/gateron-oil-king-linear-switches-389141.jpg?v=1642045846",
+    "Pin": 5
 }

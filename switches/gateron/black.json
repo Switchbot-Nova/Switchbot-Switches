@@ -7,5 +7,6 @@
     "ActivationPoint": 2,
     "TravelDistance": 4,
     "RegEx": "((gateron|gat)|black)(black|(gateron|gat))",
-    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finput.club%2Fwp-content%2Fuploads%2F2016%2F08%2Fgateron-black.jpg&f=1&nofb=1"
+    "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finput.club%2Fwp-content%2Fuploads%2F2016%2F08%2Fgateron-black.jpg&f=1&nofb=1",
+    "Pin": 5
 }

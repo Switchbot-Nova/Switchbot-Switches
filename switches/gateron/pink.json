@@ -7,5 +7,6 @@
     "ActivationPoint": "-",
     "TravelDistance": "-",
     "RegEx": "((gateron|gat)|pink)(pink|(gateron|gat))",
-    "Image": "https://i.imgur.com/1RqxmBy.png"
+    "Image": "https://i.imgur.com/1RqxmBy.png",
+    "Pin": 5
 }
