@@ -1,0 +1,12 @@
+{
+    "Brand": "Everglide",
+    "Switch": "Dark Jade",
+    "Feel": "Tactile",
+    "ActivationForce": 50,
+    "BottomOutForce": 67,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(dark|jade)(jade|dark)",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/516Mz1X2GFL._AC_SL1000_.jpg",
+    "Pin": 5
+}

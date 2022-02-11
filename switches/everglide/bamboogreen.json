@@ -1,0 +1,12 @@
+{
+    "Brand": "Everglide",
+    "Switch": "Bamboo Green",
+    "Feel": "Tactile",
+    "ActivationForce": 43,
+    "BottomOutForce": 62,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(bamboo|green)(green|bamboo)",
+    "Image": "https://keybumps.com/img/800sw/everglide-bamboo-green.jpg",
+    "Pin": 5
+}

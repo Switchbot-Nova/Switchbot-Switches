@@ -4,8 +4,9 @@
     "Feel": "Tactile",
     "ActivationForce": 52,
     "BottomOutForce": 63.5,
-    "ActivationPoint": "-",
+    "ActivationPoint": 2,
     "TravelDistance": 4,
     "RegEx": "(crystal|purple)(purple|crystal)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Crystal_Purple_1024x1024@2x.jpg?v=1579028597"
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Crystal_Purple_1024x1024@2x.jpg?v=1579028597",
+    "Pin": 5
 }

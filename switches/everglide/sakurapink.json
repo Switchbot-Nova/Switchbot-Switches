@@ -4,8 +4,9 @@
     "Feel": "Linear",
     "ActivationForce": 35,
     "BottomOutForce": 45,
-    "ActivationPoint": "-",
+    "ActivationPoint": 2,
     "TravelDistance": 4,
     "RegEx": "(sakura|pink)(pink|sakura)",
-    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Sakura_Pink_1024x1024@2x.jpg?v=1579028597"
+    "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Everglide_Sakura_Pink_1024x1024@2x.jpg?v=1579028597",
+    "Pin": 5
 }

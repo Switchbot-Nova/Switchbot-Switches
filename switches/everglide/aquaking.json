@@ -1,0 +1,12 @@
+{
+    "Brand": "Everglide",
+    "Switch": "Aqua King",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": "55/62/67",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(aqua|king)(king|aqua)",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/61pNnAgI-hL._AC_SL1500_.jpg",
+    "Pin": 5
+}
