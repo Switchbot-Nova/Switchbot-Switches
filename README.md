@@ -2,7 +2,7 @@
 Repo containing all switches in switchbot
 
 ## Contribution Guide
-To contribute to this project take a look at the `/switches` directory and open a Pull Request with suggested chanages.
+To contribute to this project take a look at the `/switches` directory and open a Pull Request with suggested changes.
 
 Switch entries are grouped under manufacturer subdirectories e.g. `/switches/gateron/blue.json`.
 
