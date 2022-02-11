@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Lavender Purple",
+    "Feel": "Tactile",
+    "ActivationForce": 36,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(lavender|purple)(purple|lavender)",
+    "Image": "https://keybumps.com/img/800sw/akko-cs-lavender-purple.jpg",
+    "Pin": 3
+}

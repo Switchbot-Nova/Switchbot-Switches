@@ -1,0 +1,12 @@
+{
+    "Brand": "Akko",
+    "Switch": "Gateron Orange",
+    "Feel": "Tactile",
+    "ActivationForce": 45,
+    "BottomOutForce": "-",
+    "ActivationPoint": "-",
+    "TravelDistance": 4,
+    "RegEx": "(gateron|orange)(orange|gateron)",
+    "Image": "https://keybumps.com/img/800sw/gateron-orange.jpg",
+    "Pin": 3
+}
