@@ -1,0 +1,12 @@
+{
+    "Brand": "Feker",
+    "Switch": "Blue White",
+    "Feel": "Tactile",
+    "ActivationForce": 50,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 3.3,
+    "RegEx": "(blue|white)(white|blue)",
+    "Image": "https://keybumps.com/img/800sw/feker-blue-white.jpg",
+    "Pin": 3
+}

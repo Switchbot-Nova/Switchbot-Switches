@@ -1,0 +1,12 @@
+{
+    "Brand": "Feker",
+    "Switch": "Miami",
+    "Feel": "Tactile",
+    "ActivationForce": 58,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(miami)",
+    "Image": "https://keybumps.com/img/800sw/feker-miami.jpg",
+    "Pin": 3
+}

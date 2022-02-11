@@ -1,0 +1,12 @@
+{
+    "Brand": "Feker",
+    "Switch": "Holy Panda",
+    "Feel": "Tactile",
+    "ActivationForce": 58,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(feker)(holy|panda|hp)",
+    "Image": "https://keybumps.com/img/800sw/feker-holy-panda.jpg",
+    "Pin": 3
+}

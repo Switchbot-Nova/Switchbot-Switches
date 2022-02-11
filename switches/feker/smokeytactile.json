@@ -1,0 +1,12 @@
+{
+    "Brand": "Feker",
+    "Switch": "Smokey Tactile",
+    "Feel": "Tactile",
+    "ActivationForce": 55,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 3.3,
+    "RegEx": "(smokey|tactile)(tactile|smokey)",
+    "Image": "https://keybumps.com/img/800sw/feker-smokey-tactile.jpg",
+    "Pin": 3
+}

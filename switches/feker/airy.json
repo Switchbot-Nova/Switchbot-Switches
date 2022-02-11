@@ -1,0 +1,12 @@
+{
+    "Brand": "Feker",
+    "Switch": "Airy",
+    "Feel": "Linear",
+    "ActivationForce": 58,
+    "BottomOutForce": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(airy)",
+    "Image": "https://keybumps.com/img/800sw/feker-airy.jpg",
+    "Pin": 3
+}
