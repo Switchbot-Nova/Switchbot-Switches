@@ -1,4 +1,6 @@
 # Switchbot-Switches
+[![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+
 Repo containing all switches in switchbot
 
 ## Contribution Guide
@@ -12,3 +14,6 @@ Finally, try to have a flexible Regular Expression (field `RegEx`) value for sea
 - It is flexible enough to avoid false negatives (both `gateronblack` and `Gateron Black` match)
 - It is not too generic, because that would create match conflicts. For example having `"RegEx": "(gateron)"` would be bad as your entry could potentially be returned for every query for Gateron. If in doubt, consider doing some tests on https://regexr.com/.
 - Switchbot has been updated so that it removes capital letters and spaces from user input so no need to put this in your RegEx.
+
+## License
+[ODC-BY 1.0](https://github.com/Switchbot-Nova/Switchbot-Switches/blob/main/LICENSE.md)
