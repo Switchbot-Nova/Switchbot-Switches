@@ -1,0 +1,12 @@
+{
+    "Brand": "GoPolar",
+    "Switch": "Azure Dragon",
+    "Feel": "Tactile",
+    "ActivationForce": "-",
+    "BottomOutForce": 63,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(azure|dragon)(dragon|azure)",
+    "Image": "https://keybumps.com/img/800sw/gopolar-azure-dragon.jpg",
+    "Pin": 5
+}

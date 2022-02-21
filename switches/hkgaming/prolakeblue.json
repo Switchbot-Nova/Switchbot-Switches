@@ -1,0 +1,12 @@
+{
+    "Brand": "HK Gaming MS1",
+    "Switch": "Pro Lake Blue",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 72,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(lakeblue|bluelake)",
+    "Image": "https://keybumps.com/img/800sw/hk-gaming-ms1-pro-lake-blue.jpg",
+    "Pin": 5
+}

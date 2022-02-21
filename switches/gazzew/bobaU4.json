@@ -6,7 +6,7 @@
     "BottomOutForce": "62/68",
     "ActivationPoint": "2",
     "TravelDistance": "4",
-    "RegEx": "(gazzew | Boba) (boba | gazzew)",
+    "RegEx": "(u4)",
     "Image": "https://keybumps.com/img/300sw/gazzew-boba.jpg",
     "Pin": 5
 }

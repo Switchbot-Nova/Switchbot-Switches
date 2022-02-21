@@ -1,0 +1,12 @@
+{
+    "Brand": "GoPolar",
+    "Switch": "Vermillion Bird",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 50,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(vermillion|bird)(bird|vermillion)",
+    "Image": "https://keybumps.com/img/800sw/gopolar-vermilion-bird.jpg",
+    "Pin": 5
+}

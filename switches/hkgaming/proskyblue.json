@@ -1,0 +1,12 @@
+{
+    "Brand": "HK Gaming MS1",
+    "Switch": "Pro Sky Blue",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 62,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(skyblue|bluesky)",
+    "Image": "https://keybumps.com/img/800sw/hk-gaming-ms1-pro-sky-blue.jpg",
+    "Pin": 5
+}

@@ -1,0 +1,12 @@
+{
+    "Brand": "HK Gaming MS1",
+    "Switch": "Pro Marlin Blue",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 67,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(marlinblue|bluemarlin)",
+    "Image": "https://keybumps.com/img/800sw/hk-gaming-ms1-pro-marlin-blue.jpg",
+    "Pin": 5
+}

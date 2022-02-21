@@ -4,8 +4,9 @@
     "Feel": "Tactile",
     "ActivationForce": "-",
     "BottomOutForce": 67,
-    "ActivationPoint": "-",
-    "TravelDistance": "-",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
     "RegEx": "((glorious|panda)(panda|glorious))|(gp)",
-    "Image": "https://cdn.shopify.com/s/files/1/0549/2681/products/front.png?v=1599234810"
+    "Image": "https://cdn.shopify.com/s/files/1/0549/2681/products/front.png?v=1599234810",
+    "Pin": 3
 }

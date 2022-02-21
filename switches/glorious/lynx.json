@@ -1,0 +1,12 @@
+{
+    "Brand": "Glorious",
+    "Switch": "Lynx",
+    "Feel": "Linear",
+    "ActivationForce": "-",
+    "BottomOutForce": 60,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(glorious|lynx)(lynx|glorious)",
+    "Image": "https://keybumps.com/img/800sw/glorious-lynx.jpg",
+    "Pin": 5
+}
