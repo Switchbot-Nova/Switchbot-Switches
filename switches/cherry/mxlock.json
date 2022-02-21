@@ -1,0 +1,12 @@
+{
+    "Brand": "Cherry",
+    "Switch": "MX Lock",
+    "Feel": "Latching lock",
+    "ActivationForce": 60,
+    "BottomOutForce": 80,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "((cherry|mx)|lock)(lock|(cherry|mx))",
+    "Image": "https://deskthority.net/wiki/File:Cherry_MX_Lock_(grey).jpg",
+    "Pin": 3
+}
