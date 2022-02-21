@@ -6,7 +6,7 @@
     "BottomOutForce": 72,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "(lakeblue|bluelake)",
+    "RegEx": "pro(lakeblue|bluelake)",
     "Image": "https://keybumps.com/img/800sw/hk-gaming-ms1-pro-lake-blue.jpg",
     "Pin": 5
 }
