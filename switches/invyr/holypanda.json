@@ -4,8 +4,9 @@
     "Feel": "Tactile",
     "ActivationForce": "-",
     "BottomOutForce": 67,
-    "ActivationPoint": "-",
-    "TravelDistance": "-",
+    "ActivationPoint": 1.9,
+    "TravelDistance": 4,
     "RegEx": "(holy|panda)(panda|holy)",
-    "Image": "https://massdrop-s3.imgix.net/product-images/massdrop-x-invyr-holy-panda-mechanical-switches/FP/DwYWcr96TM2KkNmnQAFe_PC.png?auto=format&fm=jpg&fit=fill&w=820&h=547&bg=f0f0f0&dpr=1&q=70"
+    "Image": "https://massdrop-s3.imgix.net/product-images/massdrop-x-invyr-holy-panda-mechanical-switches/FP/DwYWcr96TM2KkNmnQAFe_PC.png?auto=format&fm=jpg&fit=fill&w=820&h=547&bg=f0f0f0&dpr=1&q=70",
+    "Pin": 3
 }
