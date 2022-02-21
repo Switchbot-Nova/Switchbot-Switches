@@ -6,7 +6,7 @@
     "BottomOutForce": 67,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "(marlinblue|bluemarlin)",
+    "RegEx": "pro(marlinblue|bluemarlin)",
     "Image": "https://keybumps.com/img/800sw/hk-gaming-ms1-pro-marlin-blue.jpg",
     "Pin": 5
 }
