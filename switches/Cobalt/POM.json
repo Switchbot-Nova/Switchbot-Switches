@@ -1,0 +1,12 @@
+{
+    "Brand": "Cobalt",
+    "Switch": "POM",
+    "Feel": "Linear",
+    "ActivationForce": 59,
+    "BottomOutForce": 63.5,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(cobalt|pom)(pom|cobalt)|cobalt",
+    "Image": "https://cdn.shopify.com/s/files/1/0557/1510/2908/products/Untitled-2_720x.jpg?v=1621528024",
+    "Pin": 5
+}
