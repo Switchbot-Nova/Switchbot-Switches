@@ -6,7 +6,7 @@
     "BottomOutForce": 60,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "(cj)(gateron|cj)",
+    "RegEx": "((gateron|gat)|cj)(cj|(gateron|gat))|cj",
     "Image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/cj_1000x.png?v=1633352793",
     "Pin": 5
 }
