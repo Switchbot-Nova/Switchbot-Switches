@@ -2,7 +2,7 @@
     "Brand": "Cobalt",
     "Switch": "POM",
     "Feel": "Linear",
-    "ActivationForce": "59",
+    "ActivationForce": 59,
     "BottomOutForce": 63.5,
     "ActivationPoint": 2,
     "TravelDistance": 4,
