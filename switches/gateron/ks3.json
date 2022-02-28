@@ -6,7 +6,7 @@
     "BottomOutForce": 63.5,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "(ks3)",
+    "RegEx": "((gateron|gat)|ks3)(ks3|(gateron|gat))|ks3",
     "Image": "https://42keebs.eu/wp-content/uploads/2021/01/IMG_20210210_142317.jpg",
     "Pin": 5
 }
