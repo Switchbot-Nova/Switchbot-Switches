@@ -6,7 +6,7 @@
     "BottomOutForce": 63.5,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "(pom)(durock|pom)",
+    "RegEx": "(durock|pom)(pom|durock)|pom",
     "Image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/H45aa40617afa4b25b48b91b35ed8b030Y-removebg_1800x1800.png?v=1613507509",
     "Pin": 5
 }
