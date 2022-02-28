@@ -2,7 +2,7 @@
     "Brand": "Durock",
     "Switch": "POM",
     "Feel": "Linear",
-    "ActivationForce": "-",
+    "ActivationForce": "59",
     "BottomOutForce": 63.5,
     "ActivationPoint": 2,
     "TravelDistance": 4,
