@@ -1,0 +1,12 @@
+{
+    "Brand": "TTC",
+    "Switch": "Wild",
+    "Feel": "Linear",
+    "ActivationForce": "42/55",
+    "BottomOutForce": "52/68",
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "(ttc|wild)(wild|ttc)|wild",
+    "Image": "https://media.karousell.com/media/photos/products/2021/10/19/ttc_matrix_wild_switches_x70_l_1634654220_431dc11e_progressive.jpg",
+    "Pin": 5
+}
