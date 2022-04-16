@@ -6,7 +6,7 @@
     "BottomOutForce": 60,
     "ActivationPoint": "-",
     "TravelDistance": 4,
-    "RegEx": "(ink|red)(red|ink)",
+    "RegEx": "red[\s-]*ink|ink[\s-]*red",
     "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Red_Ink_957cd461-2ff0-4314-a1f0-556ce65f50c4_1024x1024@2x.jpg?v=1579882883",
     "Pin": 5
 }
