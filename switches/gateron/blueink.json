@@ -6,7 +6,7 @@
     "BottomOutForce": 70,
     "ActivationPoint": "-",
     "TravelDistance": 4,
-    "RegEx": "(ink|blue)(blue|ink)",
+    "RegEx": "blue[\s-]*ink|ink[\s-]*blue",
     "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Blue_Ink_37fe0c9c-1d31-4d8d-9fd1-dce11f833780_1024x1024@2x.jpg?v=1579882883",
     "Pin": 5
 }
