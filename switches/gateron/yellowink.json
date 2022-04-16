@@ -6,7 +6,7 @@
     "BottomOutForce": 67,
     "ActivationPoint": "-",
     "TravelDistance": 3.4,
-    "RegEx": "(ink|yellow)(yellow|ink)",
+    "RegEx": "yellow[\s-]*ink|ink[\s-]*yellow",
     "Image": "https://cdn.shopify.com/s/files/1/3099/8088/products/Gateron_Yellow_Ink_170f241e-97de-438a-9ed2-28aad8ed8d8c_1024x1024@2x.jpg?v=1579882883",
     "Pin": 5
 }
