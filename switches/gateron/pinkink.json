@@ -6,7 +6,7 @@
     "BottomOutForce": 60,
     "ActivationPoint": 1.2,
     "TravelDistance": 3.4,
-    "RegEx": "pink[\s-]*ink|ink[\s-]*pink",
+    "RegEx": "(pink[\\s-]*ink|ink[\\s-]*pink)",
     "Image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/H1c78d46a5df544859d4d0b63175b3984G_1800x1800.png?v=1632241584",
     "Pin": 5
 }
