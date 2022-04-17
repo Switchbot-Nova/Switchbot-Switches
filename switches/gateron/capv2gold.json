@@ -6,7 +6,7 @@
     "BottomOutForce": 63,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "(cap[\\s-]*gold|gold[\\s-]*cap)",
+    "RegEx": "((cap[\\s-]*)v2[\\s-]*gold|(cap[\\s-]*)gold[\\s-]*v2|v2[\\s-]*gold([\\s-]*cap)|cap[\\s-]*v2([\\s-]*gold)|(gold[\\s-]*cap|cap[\\s-]*gold))",
     "Image": "https://www.genesispc.in/wp-content/uploads/2021/06/2_a4555ff9-db95-4c59-8982-0dc9597c7d0d_1800x1800.jpg",
     "Pin": 5
 }
