@@ -6,7 +6,7 @@
     "BottomOutForce": 63,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "((gateron|gat)|(cap v2 milky|cap v2 milky yellow))((cap v2 milky|cap v2 milky yellow)(gateron|gat))",
+    "RegEx": "((cap[\\s-]*)v2[\\s-]*yellow|(cap[\\s-]*)yellow[\\s-]*v2|v2[\\s-]*yellow([\\s-]*cap)|cap[\\s-]*v2([\\s-]*yellow)|(yellow[\\s-]*cap|cap[\\s-]*yellow))",
     "Image": "http://cdn.shopify.com/s/files/1/0555/2406/5477/products/image_73fbb004-295a-4708-a884-67aeff9e97f0.jpg?v=1623203552",
     "Pin": 5
 }
