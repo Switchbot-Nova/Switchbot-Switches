@@ -1,0 +1,12 @@
+{
+    "Brand": "Gateron",
+    "Switch": "Cap V2 Milky Yellow",
+    "Feel": "Linear",
+    "ActivationForce": 50,
+    "BottomOutForce": 63,
+    "ActivationPoint": 2,
+    "TravelDistance": 4,
+    "RegEx": "((gateron|gat)|(cap v2 milky|cap v2 milky yellow))((cap v2 milky|cap v2 milky yellow)(gateron|gat))",
+    "Image": "http://cdn.shopify.com/s/files/1/0555/2406/5477/products/image_73fbb004-295a-4708-a884-67aeff9e97f0.jpg?v=1623203552",
+    "Pin": 5
+}
