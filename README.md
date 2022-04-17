@@ -14,6 +14,7 @@ Finally, try to have a flexible Regular Expression (field `RegEx`) value for sea
 - It is flexible enough to avoid false negatives (both `gateronblack` and `Gateron Black` match)
 - It is not too generic, because that would create match conflicts. For example having `"RegEx": "(gateron)"` would be bad as your entry could potentially be returned for every query for Gateron. If in doubt, consider doing some tests on https://regexr.com/.
 - Switchbot has been updated so that it removes capital letters and spaces from user input so no need to put this in your RegEx.
+- We have implemented better RegEx, you can find some examples under gateron. Eg: Black Ink, Black Silent Ink, Cap V2 Gold
 
 ## First Time Contributing
 
