@@ -6,7 +6,7 @@
     "BottomOutForce": 65,
     "ActivationPoint": 2,
     "TravelDistance": 4,
-    "RegEx": "(x)",
+    "RegEx": "((gat|gateron)[\\s-]*x|x[\\s-]*(gat|gateron))",
     "Image": "https://cdn.shopify.com/s/files/1/0238/7342/1376/products/001_2_540x.jpg?v=1639436825",
     "Pin": 5
 }
