@@ -3,6 +3,9 @@
 
 Repo containing all switches in switchbot
 
+### IMPORTANT
+Switchbot no longer uses RegEx so this is no longer required to be in your json file
+
 ## Contribution Guide
 To contribute to this project take a look at the `/switches` directory and open a Pull Request with suggested changes.
 
