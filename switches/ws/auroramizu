@@ -1,0 +1,11 @@
+{
+    "Brand": "WS",
+    "Switch": "Aurora Mizu",
+    "Feel": "Linear",
+    "ActivationForce": 53,
+    "BottomOutForce": 63.5,
+    "ActivationPoint": 1.9,
+    "TravelDistance": 3.8,
+    "Image": "https://storage.googleapis.com/mkeu-store-media/cache/20/aa/20aa50d4b45a9dd25bab1c91e10235d3.jpg",
+    "Pin": 5
+}
