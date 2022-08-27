@@ -13,7 +13,19 @@ Switch entries are grouped under manufacturer subdirectories e.g. `/switches/gat
 
 A good approach is to copy an existing .json file (under the appropriate name and subdirectory) and to adjust its contents (switch name, type, force, travel distance etc.)
 
-RegEx field is no longer required.
+Fields to fill in:
+  - Brand
+  - Switch (Name)
+  - Feel (Linear, Clicky, Tactile)
+  - ActivationForce
+  - BottomOutForce
+  - ActivationPoint
+  - TravelDistance
+  - Image
+  - Pin
+  - TopHousing
+  - BottomHousing
+  - Stem
 
 ## First Time Contributing
 
