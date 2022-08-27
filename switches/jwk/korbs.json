@@ -8,5 +8,8 @@
   "TravelDistance": "-",
   "RegEx": "(korbs)",
   "Image": "https://cdn.shopify.com/s/files/1/0238/7342/1376/products/korbs-new.png?v=1648782479",
-  "Pin": 5
+  "Pin": 5,
+  "TopHousing": "Nylon",
+  "BottomHousing": "Nylon",
+  "Stem": "POM",
 }
